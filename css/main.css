@@ -258,7 +258,7 @@ nav ul li a {
 /*  welcome section    */
 /*  why choose our    */
 #why-choose-our {
-  background-image: url("/img/choosing-bg.jpg");
+  background-image: url("../img/choosing-bg.jpg");
   width: 100%;
   min-height: 810px;
   display: flex;
@@ -376,7 +376,7 @@ nav ul li a {
 #Register-about-us {
   width: 100%;
   min-height: 650px;
-  background-image: url(/img/coming-soon-bg.jpg);
+  background-image: url("..//img/coming-soon-bg.jpg");
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -541,7 +541,7 @@ nav ul li a {
 #courses-section {
   width: 100%;
   height: 790px;
-  background-image: url("/img/courses-bg.jpg");
+  background-image: url("../img/courses-bg.jpg");
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -679,7 +679,7 @@ nav ul li a {
 #video-section {
   width: 100%;
   min-height: 750px;
-  background-image: url(/img/video-bg.jpg);
+  background-image: url("../img/video-bg.jpg");
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -741,7 +741,7 @@ nav ul li a {
   width: 36%;
   height: 400px;
   margin: 0 5%;
-  background-image: url("/img/main-thumb.png");
+  background-image: url("../img/main-thumb.png");
   background-size: contain;
 }
 #video-section > div:last-child div {
@@ -843,7 +843,7 @@ nav ul li a {
 #contact-section {
   width: 100%;
   min-height: 780px;
-  background-image: url(/img/contact-bg.jpg);
+  background-image: url("../img/contact-bg.jpg");
   display: flex;
   flex-direction: column;
   align-items: center;
