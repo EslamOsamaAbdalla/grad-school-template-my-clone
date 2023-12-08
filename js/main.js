@@ -100,7 +100,7 @@ whyChooseFormChild.forEach(function(i) {
 const counterContainer = document.querySelectorAll("#counter-childrean > div div:first-child");
 let theCounter = setInterval(() => {
     let nowTime = new Date();
-    let counterTime = new Date(2023, 10, 8, 0, 0, 0, 0);
+    let counterTime = new Date(2024, 10, 8, 0, 0, 0, 0);
     let nowTimeInMille = nowTime.getTime();
     let counterTimeInMille = counterTime.getTime();
     let timeBetween = counterTimeInMille - nowTimeInMille;
